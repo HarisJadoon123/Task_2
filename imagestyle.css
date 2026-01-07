@@ -1,0 +1,119 @@
+
+.main
+{
+    display:flex; 
+    justify-content: center;
+    align-items: center;  
+    text-align: center;
+    font-size: 25px;
+    gap: 20px;
+    margin: 10px;
+    }
+.img-one{
+      height: 100px;
+}
+.img-two{
+     height: 70px;
+}
+.img-three{
+    height: 70px;
+
+}
+.img-four{
+    height: 400px;
+}
+.sec{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+    gap: 20px;
+    font-family: Arial;
+    font-size: 25px;
+       
+}
+.Image-5{
+    height:550px;
+}
+
+.thhh{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+    gap: 20px;
+    font-family: Arial;  
+    font-size: 25px;
+}
+.thhh p{
+    width:400px;
+}
+.Image-6{
+    height:500px;
+}
+.for{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+    gap: 20px;
+    font-family: Arial;  
+    font-size: 25px;
+}
+.Image-7{
+    height:600px;
+}
+.tom{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+    gap: 20px;
+    font-family: Arial;  
+    font-size: 25px;
+}
+
+.Image-8{
+    position:relative;
+    bottom: 50px;
+    right:50px;
+    height:50px;
+}
+
+
+
+.last1{
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+    gap: 10px;
+   
+    font-family: Arial;
+    font-size: 25px;
+    
+}
+.Image-9{
+ height:100px;
+
+
+}
+.Image-10{
+   
+ height:100px;
+ 
+    
+}
+.last2{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+    gap: 20px;
+
+    
+}
+.Image-11{
+    width:100px;
+}
